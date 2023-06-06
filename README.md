@@ -1,5 +1,5 @@
 # VNPT-Time-Series
-My report: [VNPT-Time-Series Report(Vietnamese)](https://www.overleaf.com/read/dwsxztwpqnzk)
+My report: [VNPT-Time-Series Report(Vietnamese)](https://github.com/PhucCorn/VNPT-Time-Series/blob/main/report/VNPT_Time_series_.pdf)
 ## Long Short Term Memory - LSTM
 Original paper: [tf.keras.layers.LSTM](https://www.tensorflow.org/api_docs/python/tf/keras/layers/LSTM)
 
